@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Bosslady::Hangman::VERSION
   spec.authors       = ["James Dabbs"]
   spec.email         = ["jamesdabbs@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Hangman}
+  spec.description   = spec.summary
   spec.homepage      = ""
   spec.license       = "MIT"
 

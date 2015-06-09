@@ -1,5 +1,5 @@
 module Bosslady
-  module Hangman
+  class Hangman
     VERSION = "0.0.1"
   end
 end
